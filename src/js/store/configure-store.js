@@ -19,7 +19,7 @@ export default function configureStore(initialState) {
 
 	// Hot reloading
 	if (module.hot) {
-		// Enable Webpack hot module replacement for reducers
+		// Enable Webpack hot module replacement for reducer
 		module.hot.accept('../reducers', () => {
 			store.replaceReducer(createRootReducer(history));
 		});

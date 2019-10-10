@@ -1,15 +1,14 @@
 import React from 'react'
 import {Route} from 'react-router-dom'
-import Home from './Home'
+import Dashboard from '../containers/Dashboard'
 import Page2 from './Page2'
-import Header from "../components/Header";
+import NavBar from "../components/NavBar";
 
 const App = () =>
-	<div id={"total-view-port"}>
-		<Header />
-		<Route exact path="/" component={Home}/>
-		<Route exact path="/page-2" component={Page2}/>
-	</div>
-
+  <div id={"total-view-port"}>
+    <NavBar/>
+    <Route exact path="/" component={Dashboard}/>
+    <Route exact path="/page-2" component={Page2}/>
+  </div>;
 
 export default App

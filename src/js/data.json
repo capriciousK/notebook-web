@@ -1,0 +1,29 @@
+{
+  "cardsInfo": [
+    {
+      "urlLink": "https://tycoons-acquire.herokuapp.com/",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Acquire_game.JPG/300px-Acquire_game.JPG",
+      "name": "Acquire"
+    },
+    {
+      "urlLink": "https://power-grid-sparks.herokuapp.com/",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/PGbox_cover_cropped.jpg/225px-PGbox_cover_cropped.jpg",
+      "name": "Power Grid"
+    },
+    {
+      "urlLink": " https://cashflow-punters.herokuapp.com",
+      "imageUrl": "https://cf.geekdo-images.com/itemrep/img/QYaa8PAJuS-l8Mzf_Mr6Qqfrxpk=/fit-in/246x300/pic4232531.jpg",
+      "name": "Cash Flow"
+    },
+    {
+      "urlLink": " https://risk-techknights.herokuapp.com",
+      "imageUrl": "http://risk-techknights.herokuapp.com/images/favicon.ico",
+      "name": "Risk"
+    },
+    {
+      "urlLink": " https://uno-skyrus.herokuapp.com",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/UNO_Logo.svg/330px-UNO_Logo.svg.png",
+      "name": "UNO"
+    }
+  ]
+}
